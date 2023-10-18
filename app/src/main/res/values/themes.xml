@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.GroovyGong" parent="Base.Theme.GroovyGong" />
+
+    <style name="roundedImageView" parent="">
+        <item name="cornerSize">10%</item>
+    </style>
 </resources>
